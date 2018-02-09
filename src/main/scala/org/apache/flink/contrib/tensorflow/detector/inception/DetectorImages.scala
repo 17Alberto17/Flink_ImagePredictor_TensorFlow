@@ -69,9 +69,6 @@ object DetectorImages {
       println("-----------------------------------------")
 
 
-
-      //println(labeled.head)
-      //labeled.head
     }
 
 

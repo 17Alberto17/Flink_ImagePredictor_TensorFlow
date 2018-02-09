@@ -4,10 +4,11 @@
     <artifactId>flink-tensorflow-parent</artifactId>
     <groupId>ai.cookie</groupId>
     <version>0.1-SNAPSHOT</version>
+    <relativePath>../pom.xml/pom.xml</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>flink-tensorflow-examples_2.11</artifactId>
-  <name>flink-tensorflow-examples</name>
+  <artifactId>flink-tensorflow-alberto-detector</artifactId>
+  <name>flink-tensorflow-alberto-detector</name>
   <build>
     <plugins>
       <plugin>

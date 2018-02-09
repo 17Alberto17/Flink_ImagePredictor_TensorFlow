@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="flink-tensorflow-alberto-detector" />
         <module name="flink-tensorflow-examples_2.11" />
+        <module name="flink-tensorflow-examples_2.12" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="flink-tensorflow-alberto-detector" target="1.7" />
       <module name="flink-tensorflow-examples_2.11" target="1.7" />
+      <module name="flink-tensorflow-examples_2.12" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

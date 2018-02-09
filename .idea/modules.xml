@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-tensorflow-alberto-detector.iml" filepath="$PROJECT_DIR$/flink-tensorflow-alberto-detector.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-tensorflow-examples_2.11.iml" filepath="$PROJECT_DIR$/flink-tensorflow-examples_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-tensorflow-examples_2.12.iml" filepath="$PROJECT_DIR$/flink-tensorflow-examples_2.12.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="flink-tensorflow-examples_2.11" />
+    <profile name="Maven 1" modules="flink-tensorflow-examples_2.11,flink-tensorflow-examples_2.12,flink-tensorflow-alberto-detector" />
   </component>
 </project>
