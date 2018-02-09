@@ -7,19 +7,4 @@ Ejecutar la clase DetectorImages. Recibe dos argumentos:
 
 - El directorio donde están las imagenes a analizar. Las que ya hubiera, o fueran llegando (streaming)
 
-El programa debe proporcionar una salida del estilo:
-
-New image detected. Analyzing...
-The model has doubts. These are his predictions:
-	water bottle: 49.54%
-	nipple: 40.67%
-	pop bottle: 4.86%
-
-New image detected. Analyzing...
-The model has doubts. These are his predictions:
-	neck brace: 44.58%
-	wig: 11.51%
-	sunglasses: 7.73%
-	
-New image detected. Analyzing...
-The model predicts with 99.46% accuracy that it is a lion
+El programa debe proporcionar, por cada imagen recibida, una salida indicado su predicción y correspondiente grado de confianza. Si es inferior al 75% ofrecerá 3 alternativas
