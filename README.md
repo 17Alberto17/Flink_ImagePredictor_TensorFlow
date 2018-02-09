@@ -9,39 +9,17 @@ Ejecutar la clase DetectorImages. Recibe dos argumentos:
 
 El programa debe proporcionar una salida del estilo:
 
------------------------------------------
 New image detected. Analyzing...
 The model has doubts. These are his predictions:
 	water bottle: 49.54%
 	nipple: 40.67%
 	pop bottle: 4.86%
------------------------------------------
 
------------------------------------------
 New image detected. Analyzing...
 The model has doubts. These are his predictions:
 	neck brace: 44.58%
 	wig: 11.51%
 	sunglasses: 7.73%
------------------------------------------
-
------------------------------------------
+	
 New image detected. Analyzing...
 The model predicts with 99.46% accuracy that it is a lion
------------------------------------------
-
------------------------------------------
-New image detected. Analyzing...
-The model has doubts. These are his predictions:
-	lotion: 14.32%
-	toilet tissue: 9.3%
-	measuring cup: 8.14%
------------------------------------------
-
------------------------------------------
-New image detected. Analyzing...
-The model predicts with 88.26% accuracy that it is a tiger
------------------------------------------
-
-
-
